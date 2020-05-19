@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-05-19T20:34:46+05:30
+
+Part 3: Fail and Take A Route
+Before I explain what each of the options means there’s the 4th option as well: Doing Nothing, which I comment later on. Okay once the system is done evaluating and has failed and has decided to take another chance, it can do one or a combination of the following:
+1. Try another time:
+	a. With the same solution/method
+	b. Try a new/modified solution
+2. Initialize better or changing the interpretation of the problem itself, this often leads to changing the expectation associated with the problem
+3. Changing/Giving up on the problem completely
+{{../../imgs/Learning.png}}

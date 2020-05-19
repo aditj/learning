@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-05-19T20:36:30+05:30
+
+====== Negative and Positive Feedback ======
+As illustrated above learning is a type of feedback mechanism. But here’s the catch: all systems can learn. Growth Sustaining and Health Deteriorating, alike. And so is there a fundamental way to distinguish between them both? Are the systems which tend to be harmful have something in common?
+Let’s try to explore a destructive system in an attempt to answer this. 
+Let’s take the example of something you all must have experienced at some point or the other: Procrastination, It is a harmful, destructive practice of delaying the work ( sometimes because inside you fear the work ahead ) but to no further benefit. While you (the system) are procrastinating you feel like you can’t or shouldn’t do the work right away. You think that delaying it might get it done but unfortunately, the more you procrastinate the more you feel like procrastinating and your fear increases. It is a loop and unfortunately, you are learning ways to skip your work and feel okay for the moment (but not further than that, unfortunately). 
+Consider another example, one where you decide you are going to ignore the fear and do your work none the less. Now once you start doing this your fear automatically gets into control - under a  limit - because you learned to do the task.
+Note the difference between both the loops both indirectly affect fear but in contrasting ways.
+They are examples of positive and negative feedback. If the quantity in concern increases over time (like fear during procrastination) it’s positive feedback, if it decreases ( like fear while diligently doing your work ) it’s negative feedback. [4]
+
+

@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-05-19T20:31:55+05:30
+
+====== Why ======
+
+
+Imagine you are stranded in the middle of the Savannah without any mobility or connectivity to the outer world. You need food and water to survive the rampages of the jungle. You also have to ensure that you don’t get eaten up yourself. You don’t have any option but to get yourself acquainted with the environment: Get to know the water sources, the delicious little birds available for your appetite and the predators for whom you are the delicious little birds. And optimize your meagre available resources. Now how well you all this is another issue but you have to do this, if you want to survive. Much like the stranded you, the not-so-(synonym for stranded) too needs to survive. Basic Survival needs of a human: Energy, Safety and Belongingness all of this have to be insured. And this is not just for humans, any self-sustaining system needs to know its environment in order to survive. [1]
+But what if a system ( say a human) has its basic needs fulfilled by some means does this mean it will stop its curiosity or in other words will it stop learning?
+I defer this extremely important question to a later point. But it is important to understand that this “optimal” knowledge can’t be realized correctly at the first iteration. To be more precise, it can never be completely realized, a system can only try to get closer to the actual value. This is because not only is the environment changing but also because the system can almost never completely accurately assess the environment, hence leading to incorrect knowledge. And therefore learning as a process must be iterative.

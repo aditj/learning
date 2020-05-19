@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-05-19T20:38:48+05:30
+
+====== Topics to be covered ======
+Created Tuesday 19 May 2020
+
+Speed Of Learning
+
+Doing Nothing
+
+Breakdown
+
+Footnotes:
+[1] And any self sustaining system will try to survive unless it’s demise leads to an increase in entropy.
+[2] A problem is a broad classification and similar problems don’t mean relating to the same field, more often than not a problem with a similar structure can also serve as a good inspiration.
+[3] Classroom example
+[4] The same can be  done for 
+
+
+

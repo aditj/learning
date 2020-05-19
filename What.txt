@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-05-19T20:32:51+05:30
+
+====== What ======
+Created Tuesday 19 May 2020
+
+Learning is getting to know things. It’s  A “thing” may very well be anything, discrete or continuous. For the purpose of this article, I’ll be calling the smallest unit of learning to be a ‘lesson’. That is to say that a lesson can’t be further subdivided into more lessons. Note that a combination of lessons can be learned together as a whole.
+
+This lays the basic groundwork required and the unnecessary jargon for this seemingly simple and universal process. Hopefully, by the end of this article, it would seem a little bit less useless.
+Now let’s explore the steps involved in learning one at a time.
+But to build on it we’ll be using a simple example 

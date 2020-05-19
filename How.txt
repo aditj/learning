@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-05-19T20:32:17+05:30
+
+====== How ======
+Created Tuesday 19 May 2020
+
+Okay, so we need a process to know how to carry out our activities. But how exactly do we carry out this process? As concluded in the paragraph above this process should be at the very least iterative. It should be flexible in terms of the environment. And it should account for the errors made in measuring the environment or trying (or at least try to). It should take in the necessary parameters efficiently. It should be as quick as possible (possible tradeoff). It should last for as long as possible (possible tradeoff). It should keep going on until reaching a threshold. 

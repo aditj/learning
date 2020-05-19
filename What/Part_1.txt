@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-05-19T20:32:59+05:30
+
+Part 1: Understand, Initialize and Try
+
+The obvious first step is to recognize the problem, this may seem obvious at first glance but as we will later see Ignorance is sometimes the reason for not getting something done. The next step is to initialize it or to interpret it, this step takes mostly unconsciously in humans and many other natural systems and hinders the process sometimes if not done correctly. Then comes developing a solution and trying it out. Developing a solution may seem the most important part of the process but that is not always the case. Whatever may be the case a solution can be reached by:
+1. Referring to a system’s own or other’s past experience with similar problems [2]
+2. Hiring another system(s) to solve your problems.
+3. Using your own resources.
+Developing a solution includes a lot of parallel processes, one of them happens to be building up expectations, after all, if you are doing something you expect a result with a certain ‘goodness-factor’. And this expectation is crucial as well since leads us to ..
+
+{{../../imgs/Learning (2).png}}
